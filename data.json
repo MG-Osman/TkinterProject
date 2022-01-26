@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. What is a programming paradigm?",
+    "Q2. 'A function in a class is an object' -- true or false?",
+    "Q3. Python uses ____ as an translator. Fill in the blanks?",
+    "Q4. What is an IDE?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["A methodology that is followed to program",
+      "Creating .exe files",
+      "Writing HTML",
+      "A way of making programs are efficient"
+    ],
+    ["False",
+      "True",
+      "Neither",
+      "Both"
+    ],
+    ["an Assembler",
+      "A Compiler",
+      "An interpretor",
+      "A calculator"
+    ],
+    ["Integrated Design executor",
+      "Integrated Development environment",
+      "Initial Development execution",
+      "Initial development environment"
+    ]
+  ]
+}
